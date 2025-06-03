@@ -1,0 +1,3 @@
+Devices Operations use Workflows
+STM (Service test manager) MD-OEM
+Only Families, Chaiss types need to be figured out in Workflow not in Devices Operation
